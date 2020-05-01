@@ -7,4 +7,4 @@ Quizzler is a trivia quiz app. It consists of a series of multiple-choice, genen
 
 The UI belongs to The App Brewery, since this project was a part of The App Brewery's Udemy iOS 13 bootcamp. www.appbrewery.co
 
-![Screen shot 1](Documentation/Screen-shot-1.png) ![Screen shot 2](Documentation/Screen-shot-2.png)
+![Screen shot](Documentation/Screen-shot.jpg)
